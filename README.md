@@ -36,8 +36,8 @@ Each operating system uses a different set of developer tools to build R package
 We provide OS-specific instructions for modifying and installing the source code below:
 
 *   [Linux](burn-install-linux.md)
-*   [Mac OS](burn-install-macos.html)
-*   [Windows](burn-install-windows.html)
+*   [Mac OS](burn-install-macos.md)
+*   [Windows](burn-install-windows.md)
 
 ## Using modified BiasedUrn to create permuted datasets
 
