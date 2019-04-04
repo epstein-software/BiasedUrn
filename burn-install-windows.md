@@ -14,11 +14,10 @@ For convenience, we are providing already modified and compiled windows-ready ve
 
 Upon downloading one of these zip files, the BiasedUrn code can be installed using the <tt>Packages</tt> menu option in the R GUI, as shown in Figure 2.
 
-<figure>![R GUI menu for local package install](http://genetics.emory.edu/labs/epstein/software/BiasedUrn/R-console-packages-local.png)
+![R GUI menu for local package install](http://genetics.emory.edu/labs/epstein/software/BiasedUrn/R-console-packages-local.png)
 
-<figcaption>Figure 2\. The menu option for installing packages from a local zip file.</figcaption>
+Figure 2\. The menu option for installing packages from a local zip file.
 
-</figure>
 
 * * *
 
