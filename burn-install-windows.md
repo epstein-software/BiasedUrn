@@ -8,13 +8,13 @@ For convenience, we are providing already modified and compiled windows-ready ve
 *   both 32- and 64-bit versions compiled for R-3.0.1:  
     [BiasedUrn_1.05.zip](BiasedUrn_1.05.zip)
 *   32-bit compiled for R-2.15.* :  
-    [BiasedUrn_32bit_1.04.zip](i386/BiasedUrn_1.04.zip)
+    [BiasedUrn_32bit_1.04.zip](BiasedUrn_1.04.zip)
 *   64-bit compiled for R-2.15.* :  
-    [BiasedUrn_64bit_1.04.zip](x64/BiasedUrn_1.04.zip)
+    [BiasedUrn_64bit_1.04.zip](BiasedUrn64_1.04.zip)
 
 Upon downloading one of these zip files, the BiasedUrn code can be installed using the <tt>Packages</tt> menu option in the R GUI, as shown in Figure 2.
 
-<figure>![R GUI menu for local package install](R-console-packages-local.png)
+<figure>![R GUI menu for local package install](http://genetics.emory.edu/labs/epstein/software/BiasedUrn/R-console-packages-local.png)
 
 <figcaption>Figure 2\. The menu option for installing packages from a local zip file.</figcaption>
 
