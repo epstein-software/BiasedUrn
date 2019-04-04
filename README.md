@@ -41,7 +41,7 @@ We provide OS-specific instructions for modifying and installing the source code
 
 ## Using modified BiasedUrn to create permuted datasets
 
-Once the modified version of BiasedUrn is properly installed, the procedure can be used to generate permuted case-control datasets that are adjusted for confounders. Please see our [sample R code](burn-example.md) for an example that uses the procedure.
+Once the modified version of BiasedUrn is properly installed, the procedure can be used to generate permuted case-control datasets that are adjusted for confounders. Please see our [sample R code](burn-sample.md) for an example that uses the procedure.
 
 ## Questions and technical support
 
